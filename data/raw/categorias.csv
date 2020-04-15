@@ -1,0 +1,1647 @@
+3,Índice Geral
+4,Alimentação e Bebidas
+5,Alimentação no Domicílio
+6,"Cereais, Leguminosas e Oleaginosas"
+7,Arroz
+8,Feijão-Mulatinho
+9,Feijão-Preto
+10,Feijão-Macassar
+11,Feijão-Jalo(Enxofrão)
+12,Feijão-Roxo
+13,Feijão-Carioca(Rajado)
+14,Milho em Grão
+15,Milho Verde em Espiga
+16,"Farinhas, Féculas e Massas"
+17,Farinha de Arroz
+18,Aveia em Flocos
+19,Macarrão
+20,Fubá de Milho
+21,Amido de Milho
+22,Flocos de Milho
+23,Farinha de Trigo
+24,Farinha Vitaminada
+25,Flocos de Cereais
+26,Polvilho de Mandioca
+27,Farinha de Mandioca
+28,Cremogema
+29,Massa para Pizza
+30,Massa para Pastel
+31,Massa para Lasanha
+32,"Tubérculos, Raízes e Legumes"
+33,Batata-Doce
+34,Batata-Inglesa
+35,Inhame
+36,Mandioca(Aipim)
+37,Abóbora
+38,Abobrinha
+39,Chuchu
+40,Jiló
+41,Pepino
+42,Pimentão
+43,Quiabo
+44,Tomate
+45,Vagem
+46,Beterraba
+47,Cebola
+48,Cenoura
+49,Batata-Baroa
+50,Mandioquinha(Batata-Aipo)
+51,Açúcares e Derivados
+52,Açúcar Refinado
+53,Açúcar Cristal
+54,Rapadura
+55,"Balas, Chicletes, etc."
+56,Chocolate em Barra
+57,Bombom
+58,Geléia de Frutas
+59,Gelatina de Frutas em Pó
+60,Geléia de Mocotó
+61,Mel de Abelha
+62,Sorvete
+63,Achocolatado em Pó
+64,Doce de Frutas em calda
+65,Doce de Frutas em pasta
+66,Pamonha
+67,Doce de Leite
+68,Adoçante Artificial
+69,Fruta Seca 
+70,Beiju
+71,Schimier de Frutas
+72,Hortaliças e Verduras
+73,Alface
+74,Chicória
+75,Coentro
+76,Couve
+77,Couve-Flor
+78,Repolho
+79,Cheiro-Verde
+80,Agrião
+81,Almeirão
+82,Cebolinha
+83,Brócolis
+84,Frutas
+85,Banana-da-Terra
+86,Abacaxi
+87,Abacate
+88,Banana-D'água
+89,Banana-Maçã
+90,Banana-Prata
+91,Laranja-Baía
+92,Laranja-Lima
+93,Laranja-Seleta
+94,Limão
+95,Maçã
+96,Mamão
+97,Manga
+98,Maracujá
+99,Melancia
+100,Melão
+101,Pêra
+102,Pêssego
+103,Acerola
+104,Tangerina
+105,Uva
+106,Ameixa
+107,Laranja-Pêra
+108,Morango
+109,Cupuaçú
+110,Carnes
+111,Tripa e Bucho
+112,Fígado
+113,Carne de Porco
+114,Carne de Carneiro
+115,Cupim
+116,Contrafilé
+117,Filé Mignon
+118,Chã-de-Dentro
+119,Alcatra
+120,Patinho
+121,Lagarto Redondo
+122,Lagarto Plano
+123,Músculo
+124,Pá
+125,Acém
+126,Peito
+127,Costela
+128,Pescados
+129,Filé de Peixe
+130,Peixe-Anchova
+131,Peixe-Corvina
+132,Peixe-Cavalinha
+133,Peixe-Pescadinha
+134,Peixe-Tainha
+135,Peixe-Sardinha
+136,Camarão
+137,Peixe-Vermelho
+138,Peixe-Cavala
+139,Peixe-Cocoroca
+140,Peixe-Dourado
+141,Peixe-Serra
+142,Peixe-Pargo
+143,Peixe-Pampo
+144,Peixe-Pescada
+145,Peixe-Cioba
+146,Caranguejo
+147,Peixe-Arraia
+148,Peixe-Xerelete
+149,Peixe-Surubim
+150,Peixe-Albacora
+151,Siri
+152,Peixe-Acará
+153,Peixe-Dourada
+154,Peixe-Filhote
+155,"Carnes, Peixes Industrializados"
+156,Presunto
+157,Bacon
+158,Salsicha e Salsichão 
+159,Linguiça
+160,Mortadela
+161,Salame e Salaminho
+162,Bacalhau
+163,Camarão Seco Salgado
+164,Peixe Pirarucu Salgado
+165,Carne-Seca
+166,Carne de Porco Salgada e Defumada
+167,Carne de Hamburguer
+168,Aves e Ovos
+169,Frango
+170,Peito de Frango
+171,Coxa de Frango
+172,Asa de Frango
+173,Ovo de Galinha
+174,Leite e Derivados
+175,Leite Pasteurizado
+176,Leite Condensado
+177,Leite em Pó 
+178,Creme de Leite
+179,Iogurte
+180,Queijo Cremoso
+181,Queijo-de-Minas
+182,Queijo Prato 
+183,Queijo Parmezão
+184,Queijo Muzzarella
+185,Manteiga
+186,Leite Fermentado
+187,Queijo Reino
+188,Nata
+189,Leite com Sabor
+190,Panificados
+191,Biscoito
+192,Pão de Milho
+193,Pão Francês
+194,Pão Doce
+195,Pão de Forma
+196,Bolo
+197,Massa para Pão de Queijo
+198,Pão de Queijo
+199,Rosca Doce
+200,Torta Doce
+201,Óleos e Gorduras
+202,Óleo de Soja
+203,Azeite de Oliva
+204,Margarina Vegetal
+205,Bebidas e Infusões
+206,Suco de Frutas
+207,Polpa de Açaí
+208,Café Moído
+209,Café Solúvel
+210,Mate
+211,Refrigerante
+212,Cerveja
+213,Outras Bebidas Alcoólicas
+214,Vinho
+215,Água Mineral
+216,Enlatados e Conservas
+217,Coco Ralado
+218,Ervilha em Lata
+219,Feijoada em Lata
+220,Sopa Infantil 
+221,Palmito em Conserva
+222,Pepino em Conserva
+223,Sardinha em Lata
+224,Salsicha em Lata
+225,Carne de Boi em Lata
+226,Sopa Desidratada
+227,Azeitona
+228,Milho Verde em Lata
+229,Atum em Lata
+230,Sal e Condimentos
+231,Leite de Coco
+232,Massa de Tomate
+233,Alho
+234,Sal Refinado
+235,Colorau
+236,Caldo de Tucupi
+237,Fermento
+238,Maionese
+239,Vinagre 
+240,Caldo Concentrado 
+241,Cominho
+242,Pimenta do Reino
+243,Tempero Misto
+244,Alimentos Prontos
+245,Refeição Pronta
+246,Lanche para Viagem
+247,Alimentação Fora do Domicílio
+249,Refeição
+250,Lanche
+251,Café da Manhã
+252,Refrigerante 
+253,Cafezinho
+254,Caldos
+256,Chopp
+257,Aguardente
+259,Doces
+260,Habitação
+261,Encargos e Manutenção
+262,Aluguel e Taxas
+263,Aluguel Residencial
+264,Condomínio
+265,Imposto Predial
+266,Taxa de Água e Esgoto
+267,Compra de Água
+268,Mudança
+269,Reparos
+270,Ferragens
+271,Material de Eletricidade
+272,Material de Pintura
+273,Material de Vidro
+274,Tinta
+275,Ferramentas 
+276,Artigos de Limpeza
+277,Vassoura
+278,Saco para Lixo
+279,Água Sanitária
+280,Detergente
+281,Sabão em Pó 
+282,Desinfetante
+283,Inseticida
+284,Cêra para Assoalho
+285,Sabão em Barra
+286,Esponja de Limpeza 
+287,Desodorante Ambiental
+288,Limpador com Amoníaco
+289,"Amaciante, Alvejante"
+290,Polidor de metais
+291,Papel Toalha
+292,Lustra Móveis
+293,Combustíveis e Energia
+294,Combustíveis (Domésticos)
+295,Carvão Vegetal
+296,Gás de Bujão
+297,Gás Encanado
+298,Energia Elétrica Residencial
+300,Artigos de Residência
+301,Móveis e Utensílios
+302,Mobiliário
+303,Móvel para Sala
+304,Móvel para Quarto
+305,Móvel para Copa e Cozinha
+306,Colchão
+307,Rede
+308,Utensílios e Enfeites
+309,Relógio Despertador
+310,Tapete
+311,Cortina
+312,Utensílios Copa e Cozinha de Metal
+313,Utensílios Copa e Cozinha de Louça
+314,Artigos de Plástico
+315,Garrafa Térmica
+316,Copo de Vidro
+317,Mamadeira
+318,Bujão de Gás Vazio
+319,Chupeta e Bico
+320,Filtro de Água
+321,Flores Naturais
+322,Artigos de Jardinagem
+323,Fósforos
+324,Vela para Iluminação
+325,Espelho
+326,Persiana
+327,Filtro de Papel
+328,Guardanapo de Papel
+329,Papel Alumínio
+330,"Cama, Mesa e Banho"
+331,Roupa de Cama
+332,Roupa de Mesa
+333,Roupa de Banho
+334,Aparelhos Eletroeletrônicos
+335,Eletrodomésticos e Equipamentos
+336,Refrigerador
+337,Condicionador de Ar
+338,Máquina de Costura 
+339,Máquina de Lavar Roupa
+340,Ferro Elétrico
+341,Máquina de Secar Roupa
+342,Liquidificador
+343,Ventilador 
+344,Fogão
+345,Lâmpada
+346,Pilha
+347,Freezer
+348,Máquina de Lavar Louça
+349,Batedeira 
+350,Ozonizador
+351,Aspirador de Pó
+352,Chuveiro Elétrico
+353,Forno de Microondas
+354,"TV, Som e Informática"
+355,Televisor
+356,Aparelho de Som
+357,Video-Cassete
+358,Vídeo-Game
+359,Microcomputador
+360,Consertos e Manutenção
+362,Conserto de Geladeira e Freezer
+363,Conserto de Aparelho de Som
+364,Conserto de Vídeo-Cassete
+365,Conserto de Máquina de Lavar/Secar Roupa
+366,Conserto de Condicionador de Ar
+367,Reforma de Estofado
+368,Conserto de Bomba D'água
+369,"Manutenção de Caixa D'água, Fossa, etc."
+370,Vestuário
+371,Roupas
+372,Roupa Masculina
+373,Calça Comprida Masculina
+374,Terno
+375,Agasalho Masculino
+376,Short e Bermuda Masculina
+377,Cueca
+378,Camisa Masculina
+379,Camiseta Masculina
+380,Meia Masculina
+381,Conjunto Esportivo Masculino
+382,Aluguel de Roupa Masculina
+383,Roupa Feminina
+384,Calça Comprida Feminina
+385,Agasalho Feminino
+386,Saia
+387,Vestido
+388,Blusa
+389,Meia Feminina
+390,Lingerie
+391,Roupa de Dormir Feminina
+392,Roupa de Banho Feminina
+393,Bermuda e Short Feminino
+394,Conjunto Esportivo Feminino
+395,Camiseta Feminina
+396,Roupa Infantil
+397,Uniforme
+398,Calça Comprida Infantil
+399,Agasalho Infantil
+400,Vestido Infantil
+401,Short e Bermuda Infantil
+402,Camisa Infantil
+403,Camiseta Infantil
+404,Meia Infantil
+405,Lingerie Infantil
+406,Fralda
+407,Conjunto Esportivo Infantil
+408,Cueca Infantil
+409,Macacão Infantil
+410,Conjunto de Short e Camiseta Infantil
+411,Conjunto de Saia e Blusa Infantil
+412,Roupa de Banho Infantil
+413,Calçados e Acessórios
+415,Sapato Masculino
+416,Sapato Feminino
+417,Sapato Infantil
+418,Sandália/Chinelo Masculino
+419,Sandália/Chinelo Feminino
+420,Sandália/Chinelo Infantil
+421,Bolsa e Carteira Feminina
+422,Bolsa e Carteira Masculina
+423,Tenis
+424,Jóias e Bijuterias
+426,Bijuteria
+427,Jóia
+428,Relógio de Pulso
+429,Tecidos e Armarinho
+431,Tecido
+432,Artigos de Armarinho
+433,Acortinado
+434,Transportes
+436,Transporte Público
+437,Ônibus Urbano
+438,Táxi
+439,Trem
+440,Ônibus Intermunicipal
+441,Ônibus Interestadual
+442,Ferry-Boat
+443,Avião
+444,Metrô
+445,Navio
+446,Barco
+447,Transporte Escolar
+448,Veículo Próprio
+449,Automóvel Novo
+450,Emplacamento e Licença
+451,Seguro Voluntário de Veículo
+452,Óleo
+453,Acessórios e Peças
+454,Pneu e Câmara-de-Ar
+455,Conserto de Automóvel
+456,Estacionamento
+457,Pedágio
+458,Lubrificação e Lavagem
+459,Automóvel Usado
+460,Pintura de Veículo
+461,Motocicleta
+462,Camioneta
+463,Combustíveis (Veículos)
+464,Gasolina
+465,Álcool
+466,Óleo Diesel
+467,Saúde e Cuidados Pessoais
+468,Prod.Farmacêuticos e Óticos
+469,Produtos Farmacêuticos
+470,Antiinfeccioso e Antibiótico
+471,Analgésico e Antitérmico
+472,Antiinflamatório e Antireumático
+473,Antigripal e Antitussígeno
+474,Hepatoprotetor
+475,Antimicótico e Parasiticida
+476,Antialérgico e Broncodilatador
+477,Gastroprotetor
+478,Vitamina e Fortificante
+479,Anticoncepcional e Hormônio
+480,Psicotrópico e Anorexígeno
+481,Hipotensor e Hipocolesterínico
+482,Material para Curativo
+483,Antidiabético
+484,Óculos e Lentes
+485,Lente de Grau
+486,Armação de Óculos
+487,Óculos sem Grau
+488,Lente de Contato
+489,Serviços de Saúde
+490,Serviços Médicos e Dentários
+491,Médico
+492,Dentista
+493,Aparelho Dentário
+494,Artigos Ortopédicos
+495,Tratamento Psicológico e Fisioterápico
+496,Serviços Laboratoriais e Hospitalares
+497,Exame de Laboratório
+498,Hospitalização e Cirurgia
+499,Eletrodiagnóstico
+500,Radiografia
+501,Plano de Saúde
+503,Cuidados Pessoais
+504,Higiene Pessoal
+505,Produto para Cabelo
+506,Lâmina de Barbear
+507,Creme para Pele e Bronzeador
+508,Creme e Fio Dental
+509,Produto para Unhas
+510,Perfume
+511,Produto para Limpeza de Pele
+512,Desodorante
+513,Absorvente Higiênico
+514,Sabonete
+515,Papel Higiênico
+516,Artigo de Maquiagem
+517,Despesas Pessoais
+518,Serviços Pessoais
+520,Costureira
+521,Tinturaria e Lavanderia
+522,Manicure e Pedicure
+523,Barbeiro
+524,Cabeleireiro
+525,Empregado Doméstico
+526,Depilação
+527,Massagem e Sauna
+528,Cartório
+529,Despachante
+530,Serviço Funerário
+531,Alfaiate
+532,Serviço Bancário
+533,Conselho de Classe
+534,"Recreação,Fumo e Filmes"
+535,Recreação
+536,Cinema
+537,Ingresso para Jogo
+538,Clube
+539,Disco 
+540,Instrumento Musical
+541,Bicicleta
+542,Alimento para Cães
+543,Brinquedos
+544,Teatro
+545,Aluguel de Fita de Vídeo Cassete
+546,"Boite, Danceteria e Discoteca"
+547,Jogos Lotéricos
+548,Aluguel de Fita de Vídeo-Game
+549,Motel
+550,Bicicleta Ergométrica
+551,Material Esportivo
+552,Telesena
+553,Fita de Vídeo Gravada
+554,Bingo
+555,Hotel
+556,Arma de Fogo
+557,Excursões
+558,Alimento para Animais(Exceto Cães)
+559,Fumo
+560,Cigarro
+561,Fotografia e Filmagem
+562,Máquina Fotográfica
+563,Filme e Flash Descartável
+564,Revelação e Cópia
+565,Filmadora
+566,Fita de Vídeo Virgem
+567,Educação
+568,"Cursos, Leitura e Papelaria"
+569,Cursos
+570,Creche
+571,Curso Pré-Escolar
+572,Curso Primeiro Grau
+573,Curso Segundo Grau
+574,Curso Terceiro Grau
+575,Cursos Diversos
+576,Livro Didático 
+577,Livro e Revista Técnica
+578,Leitura
+579,Jornal Diário
+580,Assinatura de Jornal
+581,Revista não Técnica
+582,Livro não Didático
+583,Papelaria
+584,Caderno
+585,Fotocópia
+586,Artigos de Papelaria
+587,Comunicação
+590,Correio
+591,Telefone Fixo
+592,Telefone Público
+593,Telefone Celular
+594,Tv a Cabo
+595,Aparelho Telefônico
+3,INDICE GERAL
+5,"Cereais, Legum. e Oleaginosas"
+6,"Farinhas,Féculas e Massas"
+46,Combustíveis(Veículos)
+10,Feijão-Macassar (Fradinho)
+11,Feijão-Carioca (Rajado)
+12,Fava
+20,Massa Semipreparada
+24,Mandioca (Aipim)
+35,Chocolate em Barra e Bombom
+36,Gelatina
+37,Sorvete 
+38,Chocolate e Achocolatado em Pó
+39,Doce de Frutas em Pasta
+67,Goiaba
+70,Outras Vísceras
+83,Capa de Filé
+88,Peixe
+95,Peixe-Linguado
+96,Peixe-Cação
+97,Peixe-Merluza
+102,Peixe-Piramutaba
+103,Peixe-Acará 
+105,Carnes e Peixes Industrializados
+107,Salsicha e Salsichão
+112,Carne de Hambúrguer
+114,Frango Inteiro
+115,Frango em pedaços
+117,Leites e Derivados
+120,Leite em Pó
+121,Queijo
+143,Chá
+144,Refrigerante e Água Mineral
+148,Ervilha em Conserva
+149,Feijoada em Conserva
+151,Sardinha em Conserva
+152,Salsicha em Conserva
+153,Carne em conserva
+154,Patê
+157,Milho Verde em Conserva
+158,Cogumelo em Conserva
+159,Atum em Conserva
+162,Atomatado
+168,Vinagre
+169,Caldo Concentrado
+171,Molho de Soja
+195,Ferramentas
+196,Azulejo e Piso
+197,Cimento
+198,Tijolo
+199,Material Hidráulico
+200,Mão-de-Obra
+201,Areia
+202,Pedras
+207,Sabão em Pó
+209,Inseticida 
+210,Cera para Assoalho
+212,Esponja de Limpeza
+218,Gás de Botijão
+233,Utensílios Copa e Cozinha de Vidro e Louça
+234,Utensílios de Plástico
+236,Utensílios Diversos
+244,Máquina de Costura
+254,Aparelho de DVD
+258,Conserto de Refrigerador e Freezer
+259,Conserto de Televisor
+263,Conserto de Bomba D'Água
+272,Camisa/Camiseta Masculina
+288,Camisa/Camiseta Infantil
+290,Conjunto Infantil
+299,Bolsa
+300,Tênis
+327,Multa
+336,Reboque
+338,Aluguel de Veículo
+344,Gás Veicular
+346,Produtos Farmacêuticos e Óticos
+350,Antiinflamatório e Anti-reumático
+356,Hormônio
+359,Oftalmológico
+360,Produtos Óticos
+376,Asilo
+383,Produto para Pele
+384,Produto para Higiene Bucal
+405,"Recreação, Fumo e Filmes"
+410,Disco Laser
+412,Compra e Tratamento de Animais
+414,Alimento para Animais
+416,Aluguel de DVD e Fita de Videocassete
+418,Jogos de Azar
+422,Excursão
+433,Educação Infantil
+434,Ensino Fundamental
+435,Ensino Médio
+436,Ensino Superior
+437,Pós-Graduação 
+438,Curso Supletivo
+442,Revista
+443,Livro
+449,Curso Preparatório
+450,Curso Técnico
+451,Curso de Idioma
+452,Curso de Informática
+453,Auto-Escola
+454,Ginástica
+455,Natação
+456,Balé
+457,Escolinha de Esporte
+465,TV a Cabo
+466,Acesso à Internet
+3, ÍNDICE GERAL
+4, ALIMENTAÇÃO E BEBIDAS
+5, ALIMENTAÇÃO NO DOMICÍLIO
+6," CEREAIS, LEGUMINOSAS E OLEAGINOSAS"
+7, ARROZ
+8, FEIJÃO-MULATINHO
+9, FEIJÃO-PRETO
+10, FEIJÃO-MACASSAR (FRADINHO)
+11, FEIJÃO-CARIOCA (RAJADO)
+12," FARINHAS, FÉCULAS E MASSAS"
+13, FARINHA DE ARROZ
+14, MACARRÃO
+15, FUBÁ DE MILHO
+16, AMIDO DE MILHO
+17, FLOCOS DE MILHO
+18, FARINHA DE TRIGO
+19, FARINHA VITAMINADA
+20, FARINHA DE MANDIOCA
+21, MASSA SEMIPREPARADA
+22," TUBÉRCULOS, RAÍZES E LEGUMES"
+23, BATATA INGLESA
+24, INHAME
+25, MANDIOCA (AIPIM)
+26, ABÓBORA
+27, PIMENTÃO
+28, QUIABO
+29, TOMATE
+30, CEBOLA
+31, CENOURA
+32, MANDIOQUINHA (BATATA-BAROA)
+33, AÇÚCARES E DERIVADOS
+34, AÇÚCAR REFINADO
+35, AÇÚCAR CRISTAL
+36, BALAS
+37, CHOCOLATE EM BARRA E BOMBOM
+38, SORVETE
+39, CHOCOLATE E ACHOCOLATADO EM PÓ
+40, DOCE  FRUTAS EM PASTA
+41, HORTALIÇAS E VERDURAS
+42, ALFACE
+43, COENTRO
+44, COUVE
+45, COUVE-FLOR
+46, REPOLHO
+47, CHEIRO-VERDE
+48, AGRIÃO
+49, BRÓCOLIS
+50, FRUTAS
+51, BANANA-DA-TERRA
+52, ABACAXI
+53, ABACATE
+54, BANANA-D'AGUA
+55, BANANA-MAÇÃ
+56, BANANA-PRATA
+57, LARANJA-BAIA
+58, LIMÃO
+59, MAÇÃ
+60, MAMÃO
+61, MANGA
+62, MARACUJÁ
+63, MELANCIA
+64, PÊRA
+65, TANGERINA
+66, UVA
+67, LARANJA-PÊRA
+68, MORANGO
+69, GOIABA
+70, CARNES
+71, FÍGADO
+72, CARNE DE PORCO
+73, CARNE DE CARNEIRO
+74, CONTRAFILÉ
+75, FILÉ MIGNON
+76, CHÃ DE DENTRO
+77, ALCATRA
+78, PATINHO
+79, LAGARTO REDONDO
+80, LAGARTO COMUM
+81, MÚSCULO
+82, PÁ
+83, ACÉM
+84, PEITO
+85, CAPA DE FILÉ
+86, COSTELA
+87, PESCADOS
+88, PEIXE-ANCHOVA
+89, PEIXE-BADEJO
+90, PEIXE-CORVINA
+91, PEIXE-CAVALINHA
+92, PEIXE
+93, PEIXE-SARDINHA
+94, CAMARÃO
+95, PEIXE-VERMELHO
+96, PEIXE-CAVALA
+97, PEIXE-PACU
+98, PEIXE-DOURADO
+99, PEIXE-CAÇÃO
+100, PEIXE-MERLUZA
+101, PEIXE-SERRA
+102, PEIXE-PESCADA
+103, CARANGUEJO
+104, PEIXE-CASTANHA
+105, PEIXE-SALMÃO
+106, PEIXE-TILÁPIA
+107, PEIXE-TUCUNARÉ
+108, PEIXE-DOURADA
+109, PEIXE-PEROA
+110, PEIXE-PINTADO
+111, CARNES E PEIXES INDUSTRIALIZADOS
+112, PRESUNTO
+113, SALSICHA 
+114, LINGUIÇA
+115, MORTADELA
+116, SALAME 
+117, CARNE SECA E DE SOL
+118, CARNE DE PORCO SALGADA E DEFUMADA
+119, HAMBÚRGUER
+120, AVES E OVOS
+121, FRANGO INTEIRO
+122, FRANGO EM PEDAÇOS
+123, OVO DE GALINHA
+124, LEITES E DERIVADOS
+125, LEITE LONGA VIDA
+126, LEITE CONDENSADO
+127, LEITE EM PÓ
+128, QUEIJO
+129, CREME DE LEITE
+130, IOGURTE E BEBIDAS LÁCTEAS
+131, MANTEIGA
+132, PANIFICADOS
+133, BISCOITO
+134, PÃO FRANCÊS
+135, PÃO DOCE
+136, PÃO DE FORMA
+137, BOLO
+138, PÃO DE QUEIJO
+139, ÓLEOS E GORDURAS
+140, ÓLEO DE SOJA
+141, AZEITE DE OLIVA
+142, MARGARINA
+143, BEBIDAS E INFUSÕES
+144, SUCO DE FRUTAS
+145, AÇAÍ (EMULSÃO)
+146, CAFÉ MOÍDO
+147, CAFÉ SOLÚVEL
+148, CHÁ
+149, REFRIGERANTE E ÁGUA MINERAL
+150, CERVEJA
+151, OUTRAS BEBIDAS ALCOÓLICAS
+152, ENLATADOS E CONSERVAS
+153, COCO RALADO
+154, ERVILHA EM CONSERVA
+155, PALMITO EM CONSERVA
+156, PEPINO EM CONSERVA
+157, SARDINHA EM CONSERVA
+158, SALSICHA EM CONSERVA
+159, CARNE EM CONSERVA
+160, PATÊ
+161, SOPA  DESIDRATADA
+162, AZEITONA
+163, MILHO VERDE EM CONSERVA
+164, ATUM EM CONSERVA
+165, SAL E CONDIMENTOS
+166, LEITE DE COCO
+167, ATOMATADO
+168, ALHO
+169, SAL 
+170, FERMENTO
+171, MAIONESE
+172, VINAGRE
+173, CALDO CONCENTRADO
+174, TEMPERO MISTO
+175, ALIMENTAÇÃO FORA DO DOMICÍLIO
+177, REFEIÇÃO
+178, LANCHE
+179, CAFÉ DA MANHÃ
+181, CAFEZINHO
+184, DOCES
+185, HABITAÇÃO
+186, ENCARGOS E MANUTENÇÃO
+187, ALUGUEL E TAXAS
+188, ALUGUEL RESIDENCIAL
+189, CONDOMÍNIO
+190, TAXA DE ÁGUA E ESGOTO
+191, MUDANÇA
+192, REPAROS
+193, FERRAGENS
+194, MATERIAL DE ELETRICIDADE
+195, MATERIAL DE PINTURA
+196, VIDRO
+197, TINTA
+198, REVESTIMENTO DE PISO E PAREDE
+199, CIMENTO
+200, TIJOLO
+201, MATERIAL HIDRÁULICO
+202, MÃO DE OBRA
+203, AREIA 
+204, TELHA
+205, ARTIGOS DE LIMPEZA
+206, ÁGUA SANITÁRIA
+207, DETERGENTE
+208, SABÃO EM PÓ
+209, DESINFETANTE
+210, INSETICIDA
+211, SABÃO EM BARRA
+212, ESPONJA DE LIMPEZA
+213, AMACIANTE
+214, COMBUSTÍVEIS E ENERGIA
+215, COMBUSTÍVEIS (DOMÉSTICOS)
+216, CARVÃO VEGETAL
+217, GÁS DE BOTIJÃO
+218, GÁS ENCANADO
+219, ENERGIA ELÉTRICA RESIDENCIAL
+221, ARTIGOS DE RESIDÊNCIA
+222, MÓVEIS E UTENSÍLIOS
+223, MOBILIÁRIO
+224, MÓVEL PARA SALA
+225, MÓVEL PARA QUARTO
+226, MÓVEL PARA COPA E COZINHA
+227, MÓVEL INFANTIL
+228, COLCHÃO
+229, UTENSÍLIOS E ENFEITES
+230, TAPETE
+231, CORTINA
+232, UTENSÍLIOS DE METAL
+233, UTENSÍLIOS DE VIDRO E LOUÇA
+234, UTENSÍLIOS DE PLÁSTICO
+235, FLORES NATURAIS
+236, UTENSÍLIOS DIVERSOS
+237," CAMA, MESA E BANHO"
+238, ROUPA DE CAMA
+239, ROUPA DE BANHO
+240, APARELHOS ELETROELETRÔNICOS
+241, ELETRODOMÉSTICOS E EQUIPAMENTOS
+242, REFRIGERADOR
+243, AR-CONDICIONADO
+244, MÁQUINA DE LAVAR ROUPA
+245, LIQUIDIFICADOR
+246, VENTILADOR
+247, FOGÃO
+248, CHUVEIRO ELÉTRICO
+249, FORNO DE MICRO-ONDAS
+250," TV, SOM E INFORMÁTICA"
+251, TELEVISOR
+252, APARELHO DE SOM
+253, APARELHO DE DVD
+254, ANTENA
+255, MICROCOMPUTADOR
+256, CONSERTOS  E  MANUTENÇÃO
+257, CONSERTOS E MANUTENÇÃO
+258, CONSERTO DE REFRIGERADOR
+259, CONSERTO DE TELEVISOR
+260, CONSERTO DE APARELHO DE SOM
+261, CONSERTO DE MÁQUINA DE LAVAR ROUPA 
+262, REFORMA DE ESTOFADO
+263, MANUTENÇÃO DE MICROCOMPUTADOR
+264, VESTUÁRIO
+265, ROUPAS
+266, ROUPA MASCULINA
+267, CALÇA COMPRIDA MASCULINA 
+268, TERNO
+269, AGASALHO MASCULINO
+270, SHORT E BERMUDA MASCULINA
+271, CUECA
+272, CAMISA / CAMISETA MASCULINA
+273, ROUPA FEMININA
+274, CALÇA COMPRIDA FEMININA
+275, AGASALHO FEMININO
+276, SAIA
+277, VESTIDO
+278, BLUSA
+279, LINGERIE
+280, BERMUDA E SHORT FEMININO
+281, ROUPA INFANTIL
+282, UNIFORME ESCOLAR
+283, CALÇA COMPRIDA INFANTIL
+284, AGASALHO INFANTIL
+285, VESTIDO INFANTIL
+286, SHORT E BERMUDA INFANTIL
+287, CAMISA / CAMISETA INFANTIL
+288, CONJUNTO INFANTIL
+289, CALÇADOS E ACESSÓRIOS
+291, SAPATO MASCULINO
+292, SAPATO FEMININO
+293, SAPATO INFANTIL
+294, SANDÁLIA / CHINELO MASCULINO
+295, SANDÁLIA / CHINELO FEMININO
+296, SANDÁLIA / CHINELO INFANTIL
+297, BOLSA 
+298, TÊNIS
+299, JÓIAS E BIJUTERIAS
+301, BIJUTERIA
+302, JÓIA
+303, RELÓGIO DE PULSO
+304, TECIDOS E ARMARINHO
+306, TECIDO
+307, ARTIGOS DE ARMARINHO
+308, ACORTINADO (MOSQUITEIRO)
+309, TRANSPORTES
+311, TRANSPORTE PÚBLICO
+312, ÔNIBUS URBANO
+313, TÁXI
+314, TREM
+315, ÔNIBUS INTERMUNICIPAL
+316, ÔNIBUS  INTERESTADUAL
+317, PASSAGEM AÉREA
+318, METRÔ
+319, TRANSPORTE HIDROVIÁRIO
+320, TRANSPORTE ESCOLAR
+321, VEÍCULO PRÓPRIO
+322, AUTOMÓVEL  NOVO
+323, EMPLACAMENTO E  LICENÇA
+324, SEGURO VOLUNTÁRIO DE VEÍCULO
+325, MULTA
+326, ÓLEO LUBRIFICANTE
+327, ACESSÓRIOS E PEÇAS
+328, PNEU 
+329, CONSERTO DE AUTOMÓVEL
+330, ESTACIONAMENTO
+331, PEDÁGIO
+332, LUBRIFICAÇÃO E LAVAGEM
+333, AUTOMÓVEL USADO
+334, PINTURA DE VEÍCULO
+335, ALUGUEL DE VEÍCULO
+336, MOTOCICLETA
+337, COMBUSTÍVEIS (VEÍCULOS)
+338, GASOLINA
+339, ETANOL
+340, ÓLEO DIESEL
+341, GÁS VEICULAR
+342, SAÚDE E CUIDADOS PESSOAIS
+343, PRODUTOS FARMACÊUTICOS E ÓTICOS
+344, PRODUTOS FARMACÊUTICOS
+345, ANTI-INFECCIOSO E ANTIBIÓTICO
+346, ANALGÉSICO E ANTITÉRMICO
+347, ANTI-INFLAMATÓRIO E ANTIRREUMÁTICO
+348, ANTIGRIPAL E ANTITUSSÍGENO
+349, DERMATOLÓGICO
+350, ANTIALÉRGICO E  BRONCODILATADOR
+351, GASTROPROTETOR
+352, VITAMINA E FORTIFICANTE
+353, HORMÔNIO
+354, PSICOTRÓPICO E ANOREXÍGENO
+355, HIPOTENSOR E HIPOCOLESTEROLEMICO
+356, OFTALMOLÓGICO
+357, PRODUTOS ÓTICOS
+358, ARMAÇÃO DE ÓCULOS
+359, ÓCULOS SEM GRAU
+360, LENTES DE ÓCULOS E DE CONTATO
+361, SERVIÇOS DE SAÚDE
+362, SERVIÇOS MÉDICOS E DENTÁRIOS
+363, MÉDICO
+364, DENTISTA
+365, APARELHO ORTODONTICO
+366, ARTIGOS ORTOPÉDICOS
+367, FISIOTERAPEUTA
+368, PSICÓLOGO
+369, SERVIÇOS LABORATORIAIS E HOSPITALARES
+370, EXAME DE LABORATÓRIO
+371, HOSPITALIZAÇÃO E CIRURGIA
+372, EXAME DE IMAGEM
+373, PLANO DE SAÚDE
+375, CUIDADOS PESSOAIS
+376, HIGIENE PESSOAL
+377, PRODUTO PARA CABELO
+378, FRALDA DESCARTÁVEL
+379, PRODUTO PARA BARBA
+380, PRODUTO PARA PELE
+381, PRODUTO PARA HIGIENE BUCAL
+382, PRODUTO PARA UNHAS
+383, PERFUME
+384, DESODORANTE
+385, ABSORVENTE HIGIÊNICO
+386, SABONETE
+387, PAPEL HIGIÊNICO
+388, ARTIGO DE MAQUIAGEM
+389, DESPESAS PESSOAIS
+390, SERVIÇOS PESSOAIS
+392, COSTUREIRA
+393, MANICURE
+394, CABELEIREIRO
+395, EMPREGADO  DOMÉSTICO
+396, DEPILAÇÃO
+397, DESPACHANTE
+398, SERVIÇO BANCÁRIO
+399, CONSELHO DE CLASSE
+400," RECREAÇÃO, FUMO E FILMES"
+401, RECREAÇÃO
+402, CINEMA
+403, CD E DVD
+404, INGRESSO PARA JOGO
+405, CLUBE
+406, INSTRUMENTO MUSICAL
+407, TRATAMENTO DE ANIMAIS
+408, BICICLETA
+409, ALIMENTO  PARA ANIMAIS
+410, BRINQUEDO
+411, LOCAÇÃO DE DVD
+412, BOATE E DANCETERIA
+413, JOGOS DE AZAR
+414, MOTEL
+415, HOTEL
+416, EXCURSÃO
+417, FUMO
+418, CIGARRO
+419, FOTOGRAFIA E FILMAGEM
+420, MÁQUINA FOTOGRÁFICA
+421, REVELAÇÃO E CÓPIA
+422, EDUCAÇÃO
+423," CURSOS, LEITURA E PAPELARIA"
+424, CURSOS REGULARES
+425, CRECHE
+426, EDUCAÇÃO INFANTIL
+427, ENSINO FUNDAMENTAL
+428, ENSINO MÉDIO
+429, ENSINO SUPERIOR
+430, PÓS - GRADUAÇÃO 
+431, LEITURA
+432, JORNAL DIÁRIO
+433, ASSINATURA DE JORNAL
+434, REVISTA
+435, LIVRO
+436, PAPELARIA
+437, CADERNO
+438, FOTOCÓPIA
+439, ARTIGO DE PAPELARIA
+440, CURSOS DIVERSOS
+441, CURSO PREPARATÓRIO
+442, CURSO TÉCNICO
+443, CURSO DE IDIOMA
+444, CURSO DE INFORMÁTICA
+445, ATIVIDADES FÍSICAS
+446, COMUNICAÇÃO
+449, CORREIO
+450, TELEFONE FIXO
+451, TELEFONE PÚBLICO
+452, TELEFONE CELULAR
+453, ACESSO À INTERNET
+454, APARELHO TELEFÔNICO
+455, TELEFONE COM INTERNET - PACOTE
+456, TV POR ASSINATURA COM INTERNET
+88, ANCHOVA
+89, BADEJO
+90, CORVINA
+91, CAVALINHA
+93, SARDINHA
+95, VERMELHO
+96, CAVALA
+97, PACU
+98, DOURADO
+99, CAÇÃO
+100, MERLUZA
+101, SERRA
+102, PESCADA
+104, CASTANHA
+105, SALMÃO
+106, TILÁPIA
+107, TUCUNARÉ
+108, DOURADA
+109, PEROA
+110, PINTADO
+12, FEIJÃO-BRANCO
+24, BATATA-INGLESA
+41, DOCE DE FRUTAS EM PASTA
+55, BANANA-D'ÁGUA
+58, LARANJA-BAÍA
+68, LARANJA-PERA
+76, FILÉ-MIGNON
+94, PEIXE-PESCADINHA
+95, PEIXE-TAINHA
+108, PEIXE-PIAU
+109, PEIXE-SURUBIM
+110, SURURU
+111, PEIXE-CURIMATÃ
+115, PEIXE-TAMBAQUI
+117, PEIXE-PEROÁ
+119, PEIXE-MANDI
+122, SALSICHA
+125, SALAME
+126, CARNE-SECA E DE SOL
+133, LEITE E DERIVADOS
+170, SOPA DESIDRATADA
+172, MILHO-VERDE EM CONSERVA
+178, SAL
+212, AREIA
+270, CONSERTO DE MÁQUINA DE LAVAR ROUPA
+276, CALÇA COMPRIDA MASCULINA
+295, BERMUDA E SHORT INFANTIL
+306, BOLSA
+308, JOIAS E BIJUTERIAS
+311, JOIA
+325, ÔNIBUS INTERESTADUAL
+331, AUTOMÓVEL NOVO
+332, EMPLACAMENTO E LICENÇA
+337, PNEU
+359, ANTIALÉRGICO E BRONCODILATADOR
+364, HIPOTENSOR E HIPOCOLESTEROLÊMICO
+374, APARELHO ORTODÔNTICO
+391, PRODUTO PARA UNHA
+397, ARTIGOS DE MAQUIAGEM
+404, EMPREGADO DOMÉSTICO
+409," RECREAÇÃO, FUMO E FOTOGRAFIA"
+418, ALIMENTO PARA ANIMAIS
+439, PÓS-GRADUAÇÃO
+448, ARTIGOS DE PAPELARIA
+454, AUTOESCOLA
+4,Alimentação e bebidas 
+5,Alimentação no domicílio 
+6,"Cereais, leguminosas e oleaginosas "
+7,Arroz 
+8,Feijão-mulatinho 
+9,Feijão-preto 
+10,Feijão-macassar (fradinho) 
+11,Feijão-carioca (rajado) 
+12,"Farinhas, féculas e massas "
+13,Farinha de arroz 
+14,Macarrão 
+15,Fubá de milho 
+16,Amido de milho 
+17,Flocos de milho 
+18,Farinha de trigo 
+19,Farinha vitaminada 
+20,Farinha de mandioca 
+21,Massa semipreparada 
+22,"Tubérculos, raízes e legumes "
+23,Batata-inglesa 
+24,Inhame 
+25,Mandioca (aipim) 
+26,Abóbora 
+27,Pimentão 
+28,Quiabo 
+29,Tomate 
+30,Cebola 
+31,Cenoura 
+32,Mandioquinha (batata-baroa) 
+33,Açúcares e derivados 
+34,Açúcar refinado 
+35,Açúcar cristal 
+36,Balas 
+37,Chocolate em barra e bombom 
+39,Chocolate e achocolatado em pó 
+40,Doce de frutas em pasta 
+41,Hortaliças e verduras 
+42,Alface 
+43,Coentro 
+44,Couve 
+45,Couve-flor 
+46,Repolho 
+47,Cheiro-verde 
+48,Brócolis 
+49,Frutas 
+50,Banana-da-terra 
+51,Abacaxi 
+52,Abacate 
+53,Banana-d'água 
+54,Banana-maçã 
+55,Banana-prata 
+56,Laranja-baía 
+57,Limão 
+58,Maçã 
+59,Mamão 
+60,Manga 
+61,Maracujá 
+62,Melancia 
+63,Pera 
+64,Tangerina 
+65,Uva 
+66,Laranja-pera 
+67,Morango 
+68,Goiaba 
+69,Carnes 
+70,Fígado 
+71,Carne de porco 
+72,Carne de carneiro 
+73,Contrafilé 
+74,Filé-mignon 
+75,Chã de dentro 
+76,Alcatra 
+77,Patinho 
+78,Lagarto redondo 
+79,Lagarto comum 
+80,Músculo 
+81,Pá 
+82,Acém 
+83,Peito 
+84,Costela 
+85,Pescados 
+86,Anchova
+87,Corvina 
+88,Cavalinha 
+89,Peixe 
+90,Sardinha 
+91,Camarão 
+92,Vermelho
+93,Cavala 
+94,Cação 
+95,Merluza 
+96,Serra 
+97,Pescada 
+98,Caranguejo 
+99,Castanha 
+100,Salmão 
+101,Tilápia 
+102,Tucunaré
+103,Dourada 
+104,Carnes e peixes industrializados 
+105,Presunto 
+106,Salsicha 
+107,Linguiça 
+108,Mortadela 
+109,Salame 
+110,Carne-seca e de sol 
+111,Carne de porco salgada e defumada 
+112,Hambúrguer 
+113,Aves e ovos 
+114,Frango inteiro 
+115,Frango em pedaços 
+116,Ovo de galinha 
+117,Leite e derivados 
+118,Leite longa vida 
+119,Leite condensado 
+120,Leite em pó 
+121,Queijo 
+122,Creme de leite 
+123,Iogurte e bebidas lácteas 
+124,Manteiga 
+125,Panificados 
+126,Biscoito 
+127,Pão francês 
+128,Pão doce 
+129,Pão de forma 
+130,Bolo 
+131,Pão de queijo 
+132,Óleos e gorduras 
+133,Óleo de soja 
+134,Azeite de oliva 
+135,Margarina 
+136,Bebidas e infusões 
+137,Suco de frutas 
+138,Açaí (emulsão) 
+139,Café moído 
+140,Café solúvel 
+141,Chá 
+142,Refrigerante e água mineral 
+143,Cerveja 
+144,Outras bebidas alcoólicas 
+145,Enlatados e conservas 
+146,Coco ralado 
+147,Ervilha em conserva 
+148,Palmito em conserva 
+149,Pepino em conserva
+150,Sardinha em conserva 
+151,Salsicha em conserva 
+152,Carne em conserva 
+153,Patê 
+154,Sopa desidratada 
+155,Azeitona 
+156,Milho-verde em conserva 
+157,Atum em conserva 
+158,Sal e condimentos 
+159,Leite de coco 
+160,Atomatado 
+161,Alho 
+162,Sal 
+163,Fermento 
+164,Maionese 
+166,Caldo concentrado 
+167,Tempero misto 
+168,Alimentação fora do domicílio 
+170,Refeição 
+171,Lanche 
+172,Café da manhã 
+174,Cafezinho 
+177,Doces 
+178,Habitação 
+179,Encargos e manutenção 
+180,Aluguel e taxas 
+181,Aluguel residencial 
+182,Condomínio 
+183,Taxa de água e esgoto 
+184,Mudança 
+185,Reparos 
+186,Ferragens 
+187,Material de eletricidade 
+188,Material de pintura 
+189,Vidro 
+190,Tinta 
+191,Revestimento de piso e parede 
+192,Cimento 
+193,Tijolo 
+194,Material hidráulico 
+195,Mão-de-obra 
+196,Areia 
+197,Telha 
+198,Artigos de limpeza 
+199,Água sanitária 
+200,Detergente 
+201,Sabão em pó 
+202,Desinfetante 
+204,Sabão em barra 
+205,Esponja de limpeza 
+206,Amaciante 
+207,Combustíveis e energia 
+208,Combustíveis (domésticos) 
+209,Carvão vegetal 
+210,Gás de botijão 
+211,Gás encanado 
+212,Energia elétrica residencial 
+214,Artigos de residência 
+215,Móveis e utensílios 
+216,Mobiliário 
+217,Móvel para sala 
+218,Móvel para quarto 
+219,Móvel para copa e cozinha 
+220,Móvel infantil 
+221,Colchão 
+222,Utensílios e enfeites 
+223,Tapete 
+224,Cortina 
+225,Utensílios de metal 
+226,Utensílios de vidro e louça 
+227,Utensílios de plástico 
+228,Flores naturais 
+229,Utensílios diversos 
+230,"Cama, mesa e banho "
+231,Roupa de cama 
+232,Roupa de banho 
+233,Aparelhos eletroeletrônicos 
+234,Eletrodomésticos e equipamentos 
+235,Refrigerador 
+236,Ar-condicionado 
+237,Máquina de lavar roupa 
+238,Liquidificador 
+240,Fogão 
+241,Chuveiro elétrico 
+242,Forno de micro-ondas 
+243,"Tv, som e informática "
+244,Televisor 
+245,Aparelho de som 
+246,Aparelho de DVD 
+247,Antena 
+248,Microcomputador 
+249,Consertos e manutenção 
+251,Conserto de refrigerador 
+252,Conserto de televisor 
+253,Conserto de aparelho de som 
+254,Conserto de máquina de lavar roupa 
+255,Reforma de estofado 
+256,Vestuário 
+257,Roupas 
+258,Roupa masculina 
+259,Calça comprida masculina 
+260,Terno 
+261,Agasalho masculino 
+262,Short e bermuda masculina 
+263,Cueca 
+264,Camisa/camiseta masculina 
+265,Roupa feminina 
+266,Calça comprida feminina 
+267,Agasalho feminino 
+268,Saia 
+269,Vestido 
+270,Blusa 
+271,Lingerie 
+272,Bermuda e short feminino 
+273,Roupa infantil 
+274,Uniforme escolar 
+275,Calça comprida infantil 
+276,Agasalho infantil 
+277,Vestido infantil 
+278,Bermuda e short infantil 
+279,Camisa/camiseta infantil 
+280,Conjunto infantil 
+281,Calçados e acessórios 
+283,Sapato masculino 
+284,Sapato feminino 
+285,Sapato infantil 
+286,Sandália/chinelo masculino 
+287,Sandália/chinelo feminino 
+288,Sandália/chinelo infantil 
+289,Bolsa 
+290,Tênis 
+291,Joias e bijuterias 
+293,Bijuteria 
+294,Joia 
+295,Relógio de pulso 
+296,Tecidos e armarinho 
+298,Tecido 
+299,Artigos de armarinho 
+300,Acortinado (mosquiteiro) 
+301,Transportes 
+303,Transporte público 
+304,Ônibus urbano 
+305,Táxi 
+307,Ônibus intermunicipal 
+308,Ônibus interestadual 
+309,Passagem aérea 
+310,Metrô 
+311,Transporte hidroviário 
+312,Transporte escolar 
+313,Veículo próprio 
+314,Automóvel novo 
+315,Emplacamento e licença 
+316,Seguro voluntário de veículo 
+317,Multa 
+318,Óleo lubrificante 
+319,Acessórios e peças 
+320,Pneu 
+321,Conserto de automóvel 
+322,Estacionamento 
+323,Pedágio 
+324,Lubrificação e lavagem 
+325,Automóvel usado 
+326,Pintura de veículo 
+327,Aluguel de veículo 
+328,Motocicleta 
+329,Combustíveis (veículos) 
+330,Gasolina 
+331,Etanol 
+332,Óleo diesel 
+333,Gás veicular 
+334,Saúde e cuidados pessoais 
+335,Produtos farmacêuticos e óticos 
+336,Produtos farmacêuticos 
+337,Anti-infeccioso e antibiótico 
+338,Análgésico e antitérmico 
+339,Anti-inflamatório e antirreumático 
+340,Antigripal e antitussígeno 
+341,Dermatológico 
+342,Antialérgico e broncodilatador 
+343,Gastroprotetor 
+344,Vitamina e fortificante 
+345,Hormônio 
+346,Psicotrópico e anorexígeno 
+347,Hipotensor e hipocolesterolêmico 
+348,Oftalmológico 
+349,Produtos óticos 
+350,Armação de óculos 
+351,Óculos sem grau 
+352,Lentes de óculos e de contato 
+353,Serviços de saúde 
+354,Serviços médicos e dentários 
+355,Médico 
+356,Dentista 
+357,Aparelho ortodôntico
+358,Artigos ortopédicos 
+359,Fisioterapeuta 
+360,Psicólogo 
+361,Serviços laboratoriais e hospitalares 
+362,Exame de laboratório 
+363,Hospitalização e cirurgia 
+364,Exame de imagem 
+365,Plano de saúde 
+367,Cuidados pessoais 
+368,Higiene pessoal 
+369,Produto para cabelo 
+370,Fralda descartável 
+371,Produto para barba 
+372,Produto para pele 
+373,Produto para higiene bucal 
+374,Produto para unha 
+375,Perfume 
+376,Desodorante 
+377,Absorvente higiênico 
+378,Sabonete 
+379,Papel higiênico 
+380,Artigos de maquiagem 
+381,Despesas pessoais 
+382,Serviços pessoais 
+384,Costureira 
+385,Manicure
+387,Empregado doméstico 
+388,Depilação 
+389,Despachante 
+390,Serviço bancário 
+391,Conselho de classe 
+392,"Recreação, fumo e fotografia "
+393,Recreação 
+394,Cinema 
+395,CD e DVD 
+396,Ingresso para jogo 
+397,Clube 
+398,Instrumento musical 
+399,Tratamento de animais 
+400,Bicicleta 
+401,Alimento para animais 
+402,Brinquedo 
+403,Locação de DVD 
+404,Boate e danceteria 
+405,Jogos de azar 
+406,Motel 
+407,Hotel 
+408,Excursão 
+409,Fumo 
+410,Cigarro 
+411,Fotografia e filmagem 
+412,Máquina fotográfica 
+413,Revelação e cópia 
+414,Educação 
+415,"Cursos, leitura e papelaria "
+416,Cursos regulares 
+418,Educação infantil 
+419,Ensino fundamental 
+420,Ensino médio 
+421,Ensino superior 
+422,Pós-graduação 
+423,Leitura 
+424,Jornal diário 
+425,Assinatura de jornal 
+426,Revista 
+427,Livro 
+428,Papelaria 
+429,Caderno 
+430,Fotocópia 
+431,Artigos de papelaria 
+432,Cursos diversos 
+433,Curso preparatório 
+434,Curso técnico 
+435,Curso de idioma 
+436,Curso de informática 
+437,Atividades físicas 
+438,Comunicação 
+441,Correio 
+442,Telefone fixo 
+443,Telefone público 
+444,Telefone celular 
+445,Acesso à internet 
+446,Aparelho telefônico 
+447,Telefone com internet - pacote
+448,Tv por assinatura com internet 
+96,Serra	 
+98,Caranguejo	 
+102,Tucunaré	 
+138,Açaí (emulsão)	 
+149,Pepino em conserva	 
+306,Trem	 
+3,ÍNDICE GERAL
+69,Fruta Seca
+182,Queijo Prato
+220,Sopa Infantil
+312,Utens. Copa e Cozinha de Metal
+313,Utens. Copa e Cozinha de Louça
+343,Ventilador
+349,Batedeira
+357,Vídeo-Cassete
+369,"Manutenção de Caixa D'água, Fossa, etc"
+381,Conjunto Esportivo Masculina
+394,Conjunto Esportivo Feminina
+490,Serviços Médicos e Dentário
+495,Tratamento Psicológico e
+539,Disco
+548,Aluguel de Fita de Vídeo Game
+558,Alimento para Animais(Exceto cães)
+576,Livro Didático
+596,"FONTE: IBGE, Diretoria de Pesquisas, Coordenação de Índices de Preços, Sistema Nacional de Índices de Preços ao Consumidor."
+319,Passagem Aérea
+342,Etanol
